@@ -2,7 +2,7 @@
 
 # Z's Release portfolio for DEMENTIA EP made with React and Sass
 
-Check out the running demo at [slum.broccolirecords.com](https://slum.broccolirecords.com)
+Check out the running demo at [dementia.broccolibusiness.com](https://dementia.broccolibusiness.com/)
 
 ## Installation
 
