@@ -132,8 +132,12 @@ function App() {
         </div>
       </div>
       <div className='links fade'>
-        <a href='http://dblz.art/' target='_blank' rel='noreferrer'>
-          dblz.art
+        <a
+          href='http://dblz.broccolirecords.com/'
+          target='_blank'
+          rel='noreferrer'
+        >
+          DBL Z
         </a>
         <a
           href='http://www.broccolirecords.com'
